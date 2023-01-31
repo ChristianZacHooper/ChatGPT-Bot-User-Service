@@ -15,8 +15,6 @@
     <Folder Include="docs\" />
     <Folder Include="Mappers\" />
     <Folder Include="Models\" />
-    <Folder Include="env\" />
-    <Folder Include="Components\" />
     <Folder Include="Helpers\" />
     <Folder Include="Middleware\" />
     <Folder Include="packages\" />

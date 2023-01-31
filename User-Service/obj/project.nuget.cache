@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Cd5ITqCnptpcTrg3sNFoHefQlL4C7Z5kT51HeFoSaXpBgbd+2k2GjJUQRPgkA2FBrLo8oZalTK5W22VYtuBJA==",
+  "dgSpecHash": "NnlEUBmkjCX/baNWswYCd/0oQKGx5v0/f6nXYeaUQx6TpPRCeHd5QPok3UrWMYFVSkf/He5YC2vKAdGKHkLfrw==",
   "success": false,
-  "projectFilePath": "C:\\Projects\\User-Service\\User-Service.csproj",
+  "projectFilePath": "C:\\Projects\\ChatgptBot\\ChatGPT-Bot-User-Service\\User-Service\\User-Service.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
